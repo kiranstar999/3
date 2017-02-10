@@ -1,4 +1,8 @@
 sample file
 sample file
-sample 1234
+<<<<<<< HEAD
+sample 5678
 sample3sample4
+=======
+sample 5678
+>>>>>>> dev
